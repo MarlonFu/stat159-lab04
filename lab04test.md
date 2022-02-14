@@ -23,5 +23,20 @@ print('This is some code')
 ```
 
 ```python
+x = 21
+print(x)
+```
 
+
+```python
+print('askdjhasd')
+```
+
+
+```python
+x = 1
+```
+
+```python
+print('changes made by Alice')
 ```
